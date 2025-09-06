@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chen Xiaolong's homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,22 @@ redirect_from:
 
 
  Chen Xiaolong(born August 1997), received the B.S. degree from the School of Computer, Liaocheng University, Liaocheng, China, in 2019, and the Ph.D. degree from the School of Information Science and Engineering, Shandong Normal University, in 2025. His research focuses on addressing complex optimization challenges in dynamic flexible job shops, distributed manufacturing systems, and multi-constraint scheduling problems using advanced techniques like genetic programming, reinforcement learning, and evolutionary multi-task frameworks. Dr. Chen has authored ​​9 SCI-indexed papers​​ (6 in Q1 journals including IEEE Transactions on Evolutionary Computation, Swarm and Evolutionary Computation, and Expert Systems with Applications) and holds ​​3 patents​​ related to intelligent scheduling systems. His work has earned recognition through awards such as the Huawei Cup Graduate Math Modeling Competition (2021) and the National Doctoral Scholarship (2024).
- Since 2025, he is with the lecture of the [China People's Police University](https://www.cppu.edu.cn/index.htm).
+Since 2025, he is with the lecture of the [China People's Police University](https://www.cppu.edu.cn/index.htm).
 
-A data-driven personal website
+# Educations
+
+2021.09-2025.06, Ph.D, Shandong Normal University, Computer Science and Information
+2019.09-2021.06, M.E., Shandong Normal University, Computer Science and Information
+2015.09-2019.06, B.E., Liaocheng University, Soft Engineering
+
+# Award
+
+- 2021.11 Third Prize, ​​18th China Graduate Mathematical Contest in Modeling (CGMCM)​​ (Huawei Cup)
+- 2024.11 National Doctoral Scholarship
+- 2024.12 Jinan City Scholarship
+- 2025.04 Top Ten Academic Talents (Doctoral Group), 10th Shandong Normal University Academic Excellence Award
+
+A data-driven personal website Education 
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
