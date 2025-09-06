@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ Chen Xiaolong(born August 1997), received the B.S. degree from the School of Computer, Liaocheng University, Liaocheng, China, in 2019, and the Ph.D. degree from the School of Information Science and Engineering, Shandong Normal University, in 2025. His research focuses on addressing complex optimization challenges in dynamic flexible job shops, distributed manufacturing systems, and multi-constraint scheduling problems using advanced techniques like genetic programming, reinforcement learning, and evolutionary multi-task frameworks. Dr. Chen has authored ​​9 SCI-indexed papers​​ (6 in Q1 journals including IEEE Transactions on Evolutionary Computation, Swarm and Evolutionary Computation, and Expert Systems with Applications) and holds ​​3 patents​​ related to intelligent scheduling systems. His work has earned recognition through awards such as the Huawei Cup Graduate Math Modeling Competition (2021) and the National Doctoral Scholarship (2024).
+ Since 2025, he is with the lecture of the [China People's Police University](https://www.cppu.edu.cn/index.htm).
 
 A data-driven personal website
 ======
