@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Chen Xiaolong"
+  avatar           : "person.png"
+  name             : "陈小龙/Chen Xiaolong"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "China People's Police University"
   uri              : # URL
   email            : "chenxiaolong6195@163.com" 
 
