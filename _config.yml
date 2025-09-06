@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "6-信工学院+陈小龙.jpg"
+  avatar           : "person.jpg"
   name             : "陈小龙/Chen Xiaolong"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
