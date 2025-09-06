@@ -13,9 +13,9 @@ Since 2025, he is with the lecture of the [China People's Police University](htt
 
 # Educations
 
-2021.09-2025.06, Ph.D, Shandong Normal University, Computer Science and Information
-2019.09-2021.06, M.E., Shandong Normal University, Computer Science and Information
-2015.09-2019.06, B.E., Liaocheng University, Soft Engineering
+- 2021.09-2025.06, Ph.D, Shandong Normal University, Computer Science and Information
+- 2019.09-2021.06, M.E., Shandong Normal University, Computer Science and Information
+- 2015.09-2019.06, B.E., Liaocheng University, Soft Engineering
 
 # Award
 
